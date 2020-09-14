@@ -1,0 +1,17 @@
+#Wrapper{
+    width: 1000px;
+    color: #989898;
+    min-height: 500px;
+}
+.felsokep{
+    width: 100%;
+}
+.en{
+    width: 25%;
+    float: right;
+    padding: 20px 20px 20px 20px;
+}
+p{
+    width: 500px;
+    text-align: justify;
+}
